@@ -16,6 +16,7 @@ public class SpringJenkinsApplication {
 		
 		logger.info("Log Statement1");
 		logger.info("Log Statement2");
+		System.out.println("Third statement");
 	}
 
 }
