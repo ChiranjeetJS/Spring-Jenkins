@@ -23,6 +23,9 @@ public class SpringJenkinsApplication {
 
 		System.out.println("Third statement from test2");
 		
+                System.out.println("Some more statements from master ");
+
+		
 	
 	}
 
